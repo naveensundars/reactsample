@@ -10,3 +10,9 @@ File: Custom Css File
 .split-logo {
     display: flex;
 }
+.footer{
+    height:30px;
+    padding: 6px calc(1.5rem * .5);
+    position: sticky;
+    bottom: 0;
+}
